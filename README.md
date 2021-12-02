@@ -5,3 +5,4 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 ## Solutions
 
 - [Day 1: Sonar Sweep](./day1/README.md)
+- [Day 2: Dive!](./day2/README.md)
