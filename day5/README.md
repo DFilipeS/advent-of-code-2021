@@ -77,6 +77,8 @@ Consider all of the lines. At how many points do at least two lines overlap?
 
 Your puzzle answer was `21698`.
 
+## Running the solution
+
 ```elixir
 iex> Commons.read_input(:day5) |> Day5.parse_input() |> Day5.total_intersection_points(diagonal: false)
 5294

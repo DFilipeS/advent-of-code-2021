@@ -1,8 +1,6 @@
 # Advent of Code 2021
 
-https://adventofcode.com/
-
-Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
+[Advent of Code](https://adventofcode.com/2021/) is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
 
 ## Solutions
 
@@ -11,3 +9,4 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 - [Day 3: Binary Diagnostic](./day3)
 - [Day 4: Giant Squid](./day4)
 - [Day 5: Hydrothermal Venture](./day5)
+- [Day 6: Lanternfish](./day6)
