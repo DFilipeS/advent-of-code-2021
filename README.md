@@ -10,3 +10,4 @@
 - [Day 4: Giant Squid](./day4)
 - [Day 5: Hydrothermal Venture](./day5)
 - [Day 6: Lanternfish](./day6)
+- [Day 7: The Treachery of Whales](./day7)
