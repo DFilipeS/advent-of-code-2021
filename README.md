@@ -14,3 +14,4 @@
 - [Day 8: Seven Segment Search](./day8)
 - [Day 9: Smoke Basin](./day9)
 - [Day 10: Syntax Scoring](./day10)
+- [Day 11: Dumbo Octopus](./day11)
