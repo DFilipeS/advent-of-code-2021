@@ -15,3 +15,4 @@
 - [Day 9: Smoke Basin](./day9)
 - [Day 10: Syntax Scoring](./day10)
 - [Day 11: Dumbo Octopus](./day11)
+- [Day 12: Passage Pathing](./day12)
