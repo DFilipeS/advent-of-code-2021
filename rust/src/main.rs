@@ -1,4 +1,5 @@
 mod day_1;
+mod day_2;
 
 fn main() {
     let args: Vec<String> = std::env::args().collect();
@@ -16,6 +17,8 @@ fn main() {
     match (day, part) {
         (1, 1) => day_1::solve_part_1(),
         (1, 2) => day_1::solve_part_2(),
+        (2, 1) => day_2::solve_part_1(),
+        (2, 2) => day_2::solve_part_2(),
         _ => {
             eprintln!("Missing solution for given day/part");
         }

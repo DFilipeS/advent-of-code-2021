@@ -23,7 +23,7 @@ fn read_input(reader: &mut impl Read) -> Result<Vec<u32>, Box<dyn Error>> {
     buffer.trim().lines().map(|l| Ok(l.parse()?)).collect()
 }
 
-/// Counts the number of increases compared to the previous value in the given 
+/// Counts the number of increases compared to the previous value in the given
 /// vector.
 fn count_increases(values: Vec<u32>) -> u32 {
     if values.is_empty() {
